@@ -83,10 +83,10 @@
 <details>
 
   <summary>
-    <h2>Applications & Software</h2>
+    <h2>Applications & Websites</h2>
   </summary>
 
-  All applications and software used in this class. Some have multiple options based on preference.
+  All applications and websites used in this class. Some have multiple options based on preference.
 
   <details open>
 
@@ -407,7 +407,8 @@
    </summary>
 
    Learn more about and practice programming.
-    
+
+   - [LeetCode](https://leetcode.com/): Practice programming and compete in competitions
    - [Programming with Mosh](https://www.youtube.com/@programmingwithmosh/): 
    - [Nick Chapsas](https://www.youtube.com/@nickchapsas/): 
    - [Codecademy](https://www.codecademy.com/): 
