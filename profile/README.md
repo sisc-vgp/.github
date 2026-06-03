@@ -173,7 +173,8 @@
    Download software and visit websites for 3D art and animation.
 
    - [Maya](https://www.autodesk.com/products/maya/): Create 3D models using industry standard software
-   - [Blender](https://www.blender.org/download/): Create 3D models for video games
+   - [Blender](https://www.blender.org/download/): Create 3D models for video games and animations
+   - [Blockbench](https://web.blockbench.net/): Create voxel-based 3D models for video games and animations
    - [ZBrushCoreMini](https://www.maxon.net/en/get-zbrushcoremini): Sculpt 3D models with a variety of tools
    - [Substance Painter](https://www.adobe.com/products/substance3d/apps/painter.html): Apply materials to 3D models
    - [Substance Designer](https://www.adobe.com/products/substance3d/apps/designer.html): Design materials to use in 3D applications
