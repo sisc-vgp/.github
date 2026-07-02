@@ -54,7 +54,6 @@
 
    Forms you will fill out semi-regularly throughout the school year.
 
-   - [Skill Submission](https://forms.gle/6LEc8BR3XjiNDAeJ7): Get graded for skills you've completed in class
    - [Ticket](https://forms.gle/hvqNCfDRHKVtB8Tt5): Let the instructor know when you're having technology issues
    - [Letter of Recommendation](https://forms.gle/rGFybNKLt3e1xnvf6): Get a custom letter of recommendation from the instructor
    - [Offboarding](https://forms.gle/CgKAjFZGZK6qaHu28): Get ready to leave this class
