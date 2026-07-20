@@ -316,6 +316,7 @@
    - [Google Sites](https://sites.google.com/): Create websites to host games, portfolios, or company resources on
    - [GoDaddy](https://www.godaddy.com/): Register custom domains for websites and emails
    - [Steamworks](https://partner.steamgames.com/): Upload your games to Steam and utilize its APIs
+   - [GameDevFoundry](https://www.gamedevfoundry.com/): Learn more about running a game studio
 
    ---
 
