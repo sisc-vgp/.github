@@ -71,7 +71,7 @@
      <h2>Miscellaneous</h2>
    </summary>
 
-   Other websites you'll be using that don't fit the above.
+   Other websites you'll be using that don't fit the above categories.
  
    - [Sno-Isle Website](https://sc.mukilteoschools.org/): Visit the official Sno-Isle TECH website
    - [Sno-Isle Application](https://scmukilteoschools.fsenrollment.com/users/sign_in): Apply for this class and others for next school year
@@ -374,7 +374,6 @@
    - [Huion Drivers](https://www.huion.com/download/): Drivers needed for Huion products
    - [Meta Quest Developer Hub](https://developers.meta.com/horizon/documentation/unity/ts-mqdh/): Debug and deploy apps to Meta Quest devices
    - [7-Zip](https://www.7-zip.org/): Compress and extract Zip files using high-efficiency algorithms
-   - [OpenGameArt.org](https://opengameart.org/): Browse through thousands of free-to-use art and audio assets for your game
 
   </details>
 
@@ -454,6 +453,7 @@
     
    - [Pixel Pete](https://www.youtube.com/@PeterMilko): 
    - [Brandon James Greer](https://www.youtube.com/@BJGpixel/videos): 
+   - [OpenGameArt.org](https://opengameart.org/): Browse through thousands of free-to-use art and audio assets for your game
 
    ---
 
