@@ -450,10 +450,10 @@
      <h3>2D Art</h3>
    </summary>
 
-   Learn more about 2D art and download free-to-use resources.
+   Learn more about 2D art.
     
-   - [Pixel Pete](https://www.youtube.com/@PeterMilko): 
-   - [Brandon James Greer](https://www.youtube.com/@BJGpixel/videos): 
+   - [Pixel Pete](https://www.youtube.com/@PeterMilko): Follow pixel art (and Unity) tutorials
+   - [Brandon James Greer](https://www.youtube.com/@BJGpixel): Learn pixel art techniques
 
    ---
 
@@ -467,11 +467,11 @@
 
    Learn more about 3D art and animation.
     
-   - [Joey Carlino](https://www.youtube.com/@JoeyCarlino): 
-   - [Blender Guru](https://www.youtube.com/@blenderguru/): 
-   - [Grant Abbitt](https://www.youtube.com/@grabbitt/): 
-   - [Pantheon](https://www.youtube.com/@Pantheon3D/): 
-   - [WiseFrog](https://www.youtube.com/@WiseFrog-x7l): 
+   - [Blender Guru](https://www.youtube.com/@blenderguru/): Learn how to use Blender
+   - [Grant Abbitt](https://www.youtube.com/@grabbitt): Improve your Blender skills by learning new techniques
+   - [Pantheon](https://www.youtube.com/@Pantheon3D/): Learn quick tips and techniques to improve your Blender workflows
+   - [WiseFrog](https://www.youtube.com/@WiseFrog-x7l/): Learn quick tips and techniques to improve your Blender workflows
+   - [Joey Carlino](https://www.youtube.com/@JoeyCarlino): Learn quick tips and techniques to improve your Blender workflows
 
    ---
 
@@ -501,12 +501,12 @@
      <h3>Mathematics</h3>
    </summary>
 
-   Learn more about high school level math.
+   Learn more about high school-level math.
     
    - [3Blue1Brown](https://youtube.com/@3blue1brown/): 
    - [Your SAT Coach](https://youtube.com/@yoursatcoach/): 
    - [Andy Math](https://youtube.com/@andymath/): 
-   - [Khan Academy](https://www.khanacademy.org/): 
+   - [Khan Academy](https://www.khanacademy.org/): Learn and practice math skills across different grade levels
    - [Math is Fun](https://www.mathsisfun.com/): 
 
    ---
