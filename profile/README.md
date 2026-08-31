@@ -385,7 +385,7 @@
 <details>
 
   <summary>
-    <h2>Study & Practice Resources</h2>
+    <h2>Study Resources</h2>
   </summary>
 
   Videos and websites to help strengthen your understanding of certain concepts.
