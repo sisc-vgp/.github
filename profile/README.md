@@ -89,7 +89,7 @@
 <details>
 
   <summary>
-    <h2>Applications & Websites</h2>
+    <h2>Applications & Web Apps</h2>
   </summary>
 
   All applications and websites used in this class. Some have multiple options based on preference.
