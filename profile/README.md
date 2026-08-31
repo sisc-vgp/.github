@@ -89,7 +89,7 @@
 <details>
 
   <summary>
-    <h2>Software & Web Apps</h2>
+    <h2>Software & Websites</h2>
   </summary>
 
   All applications and websites used in this class. Some have multiple options based on preference.
@@ -165,6 +165,7 @@
    - [Piskel](https://www.piskelapp.com/): Create pixel art online
    - [Pixilart](https://www.pixilart.com/draw): Create and share pixel art online
    - [Sprite Sheet Packer](https://www.codeandweb.com/free-sprite-sheet-packer): Combine multiple sprites into a single spritesheet online
+   - [OpenGameArt.org](https://opengameart.org/): Browse through thousands of free-to-use art and audio assets for your game
 
    ---
 
@@ -384,7 +385,7 @@
 <details>
 
   <summary>
-    <h2>Resources</h2>
+    <h2>Study & Practice Resources</h2>
   </summary>
 
   Videos and websites to help strengthen your understanding of certain concepts.
@@ -453,7 +454,6 @@
     
    - [Pixel Pete](https://www.youtube.com/@PeterMilko): 
    - [Brandon James Greer](https://www.youtube.com/@BJGpixel/videos): 
-   - [OpenGameArt.org](https://opengameart.org/): Browse through thousands of free-to-use art and audio assets for your game
 
    ---
 
