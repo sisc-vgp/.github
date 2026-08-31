@@ -449,7 +449,7 @@
      <h3>2D Art</h3>
    </summary>
 
-   Learn more about 2D art.
+   Learn more about 2D art and download free-to-use resources.
     
    - [Pixel Pete](https://www.youtube.com/@PeterMilko): 
    - [Brandon James Greer](https://www.youtube.com/@BJGpixel/videos): 
