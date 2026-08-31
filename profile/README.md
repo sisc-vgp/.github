@@ -4,7 +4,7 @@
     <h2>Class Docs</h2>
   </summary>
 
-  Class-related documents that will help you be successful and organized. 
+  Class-related documents to help you be successful and organized.
 
   <details open>
 
@@ -416,10 +416,10 @@
    Learn more about and practice programming.
 
    - [LeetCode](https://leetcode.com/): Practice programming and compete in competitions
-   - [Programming with Mosh](https://www.youtube.com/@programmingwithmosh/): 
-   - [Nick Chapsas](https://www.youtube.com/@nickchapsas/): 
-   - [Codecademy](https://www.codecademy.com/): 
-   - [Sololearn](https://www.sololearn.com/): 
+   - [Programming with Mosh](https://www.youtube.com/@programmingwithmosh/): Learn various programming languages through video courses
+   - [Nick Chapsas](https://www.youtube.com/@nickchapsas/): Learn high-level C# techniques and practices
+   - [Codecademy](https://www.codecademy.com/): Learn various programming languages through interactive courses
+   - [Sololearn](https://www.sololearn.com/): Learn and practice programming languages online (and with a mobile app)
 
    ---
 
