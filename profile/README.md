@@ -484,12 +484,12 @@
    </summary>
 
    Learn more about music theory and production.
-    
-   - [Synthet](https://www.youtube.com/@synthet7/): 
-   - [In The Mix](https://www.youtube.com/@inthemix/): 
-   - [Zectro](https://www.youtube.com/@JustZectro/): 
-   - [Spaces](https://www.youtube.com/@spacesdnb/): 
-   - [Alex Rome](https://www.youtube.com/@AlexRome/): 
+
+   - [Zectro](https://www.youtube.com/@JustZectro/): Learn how to make music for video games
+   - [In The Mix](https://www.youtube.com/@inthemix/): Learn tips and tricks for music production
+   - [Spaces](https://www.youtube.com/@spacesdnb/): Learn tips and tricks for music production
+   - [Alex Rome](https://www.youtube.com/@AlexRome/): Learn music techniques used in popular music
+   - [Synthet](https://www.youtube.com/@synthet7/): Follow bite-sized videos to learn quick music theory techniques
 
    ---
 
