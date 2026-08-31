@@ -63,8 +63,25 @@
    ---
 
   </details>
+  
+  <details open>
 
----
+   <summary>
+     <h2>Miscellaneous</h2>
+   </summary>
+
+   Other websites you'll be using that don't fit the above.
+ 
+   - [Sno-Isle Website](https://sc.mukilteoschools.org/): Visit the official Sno-Isle TECH website
+   - [Sno-Isle Application](https://scmukilteoschools.fsenrollment.com/users/sign_in): Apply for this class and others for next school year
+   - [Animation & Fine Arts Website](https://sites.google.com/view/anisisc): Visit the official Animation & Fine Arts website
+   - [AMES Website](https://ames.team): Visit the official AMES website
+   - [Food Order](https://www.traininggroundscafe.com/): Order food from the Culinary classes
+   - [Class Merch](https://streamline-llc.net/snoisle26/shop/home): Buy Sno-Isle TECH merchandise
+
+   ---
+  
+  </details>
 
 </details>
 
@@ -575,22 +592,5 @@
   </details>
 
 ---
-
-</details>
-
-<details>
-
-  <summary>
-    <h2>Miscellaneous</h2>
-  </summary>
-
-  Other websites you'll be using that don't fit any of the above categories.
-
-  - [Sno-Isle Application](https://scmukilteoschools.fsenrollment.com/users/sign_in): Apply for this class and others for next school year
-  - [Sno-Isle Website](https://sc.mukilteoschools.org/): Visit the official Sno-Isle website
-  - [Animation Website](https://sites.google.com/view/anisisc): Visit the official Animation website
-  - [AMES Website](https://ames.team): Visit the official AMES website
-  - [Food Order](https://www.traininggroundscafe.com/): Order food from the Culinary classes
-  - [Class Merch](https://streamline-llc.net/snoisle26/shop/home): Buy Video Game Production-themed merchandise
 
 </details>
