@@ -433,12 +433,12 @@
 
    Learn more about level design, UI design, and game design in general.
     
-   - [Game Maker's Toolkit](https://www.youtube.com/@GMTK/): 
-   - [Masahiro Sakurai on Creating Games](https://www.youtube.com/@sora_sakurai_en/): 
-   - [Daryl Talks Games](https://youtube.com/@daryltalksgames): 
-   - [Design Doc](https://youtube.com/@designdoc): 
-   - [Game Developers Conference](https://www.youtube.com/@Gdconf/): 
-   - [Game UI Database](https://www.gameuidatabase.com/): 
+   - [Game Maker's Toolkit](https://www.youtube.com/@GMTK/): Learn game design philosophy through popular video games
+   - [Daryl Talks Games](https://youtube.com/@daryltalksgames): Study unique game design cases from popular video games
+   - [Design Doc](https://youtube.com/@designdoc): Learn game design techniques through popular video games
+   - [Masahiro Sakurai on Creating Games](https://www.youtube.com/@sora_sakurai_en/): Follow short tutorials explaining game design concepts
+   - [GDC Festival of Gaming](https://www.youtube.com/@GDCFestivalofGaming): View past GDC talks
+   - [Game UI Database](https://www.gameuidatabase.com/): Study user interfaces from thousands of mainstream video games for reference
 
    ---
 
@@ -503,11 +503,11 @@
 
    Learn more about high school-level math.
     
-   - [3Blue1Brown](https://youtube.com/@3blue1brown/): 
-   - [Your SAT Coach](https://youtube.com/@yoursatcoach/): 
-   - [Andy Math](https://youtube.com/@andymath/): 
+   - [3Blue1Brown](https://youtube.com/@3blue1brown/): Learn advanced math skills and solve complicated conjectures
+   - [Your SAT Coach](https://youtube.com/@yoursatcoach/): Learn tips and tricks for solving SAT questions
+   - [Andy Math](https://youtube.com/@andymath/): Study math by following along with mathematical puzzles
    - [Khan Academy](https://www.khanacademy.org/): Learn and practice math skills across different grade levels
-   - [Math is Fun](https://www.mathsisfun.com/): 
+   - [Math is Fun](https://www.mathsisfun.com/): Learn high school-level math skills
 
    ---
 
