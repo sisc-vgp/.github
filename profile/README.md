@@ -103,7 +103,7 @@
    Download software for developing video games.
     
    - [Unity Hub](https://unity.com/download/): Manage Unity installs, projects, and licenses
-   - [Unity 6.3](https://unity.com/releases/editor/whats-new/6000.3.11/): Make games using the Unity game engine
+   - [Unity 6.5](https://unity.com/releases/editor/whats-new/6000.5.7/): Make games using the Unity game engine
    - [Epic Games Launcher](https://store.epicgames.com/en-US/download): Launcher for Unreal Engine
    - [Unreal Engine](https://www.unrealengine.com/en-US/download/): Make games using Unreal Engine
    - [Godot](https://godotengine.org/download/): Make games using the Godot game engine
