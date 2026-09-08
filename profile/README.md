@@ -23,6 +23,7 @@
    - [School Email](https://outlook.office365.com): Send and receive school emails
    - [Itch.io](https://sisc-vgdani.itch.io/): View and play games created by the class
    - [Classroom Screens](https://classroomscreen.com/app/p/73a96a5d-84ce-4128-ab32-889ceea07eda/0): View the daily screen for today
+   - [Photos](https://drive.google.com/drive/folders/1kIsAnmV6f6hSC8YWlPw8gG4XqWHoZSl-?usp=drive_link): View class pictures
 
    ---
 
