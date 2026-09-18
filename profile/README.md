@@ -59,6 +59,7 @@
 
    - [Ticket](https://forms.gle/hvqNCfDRHKVtB8Tt5): Let the instructor know when you're having technology issues
    - [Letter of Recommendation](https://forms.gle/rGFybNKLt3e1xnvf6): Get a custom letter of recommendation from the instructor
+   - [Friday Artist Request](https://forms.gle/Dfhp9AR7T7AkNQow6): Request an artist to be added to the Friday playlist
    - [Onboarding](https://forms.gle/uv7NZoEeyE9qtGFS6): Get ready to start this class
    - [Offboarding](https://forms.gle/CgKAjFZGZK6qaHu28): Get ready to leave this class
 
