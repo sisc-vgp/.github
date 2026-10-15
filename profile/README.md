@@ -80,7 +80,7 @@
    - [Animation & Fine Arts Website](https://sites.google.com/view/anisisc): Visit the official Animation & Fine Arts website
    - [AMES Website](https://ames.team): Visit the official AMES website
    - [Food Order](https://www.traininggroundscafe.com/): Order food from the Culinary classes
-   - [Class Merch](https://streamline-llc.net/snoisle26/shop/home): Buy Sno-Isle TECH merchandise
+   - [Class Merch](https://streamline-llc.net/Sno-Isle2026-2027/shop/home): Buy Sno-Isle TECH merchandise
 
    ---
   
