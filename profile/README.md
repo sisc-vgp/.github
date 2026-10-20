@@ -15,7 +15,7 @@
    Links to websites that you will use almost every day.
 
    - [About](https://docs.google.com/presentation/d/e/2PACX-1vTolt9URY-F9EcztJ-dUWanNjiyod-wqKaOPv90rZugUE1-vs8Za1NZom4-UgX9hHHwNBGAP-ggtIUH/pub?start=false&loop=false&delayms=60000): Learn all about this class
-   - [Time Clock](https://script.google.com/macros/s/AKfycby8E5GqPlgv6mzSTWY9j8svNxm9q8PyLY5D-HdWAcFYBYFOLULY-4WYh0aPgur8r_kz/exec)
+   - [Time Clock](https://script.google.com/macros/s/AKfycby8E5GqPlgv6mzSTWY9j8svNxm9q8PyLY5D-HdWAcFYBYFOLULY-4WYh0aPgur8r_kz/exec): Clock in and out, record bathroom breaks, and more
    - [Curriculum](https://my.otus.com/home/): Follow the curriculum for all skills
    - [Grades](https://www.q.wa-k12.net/mukilt): Check your current Skyward grade
    - [Calendar](https://calendar.google.com/calendar/embed?src=3c4c4e17b814087b7fe2c3f7d3541ae21e0146d51f795a0b5f65539068c07e54%40group.calendar.google.com&ctz=America%2FLos_Angeles): View and save the class calendar
